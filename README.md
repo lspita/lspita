@@ -6,5 +6,8 @@
   <br>
   <br>
   <img src="https://skillicons.dev/icons?i=python,java,c,linux,bash,git,docker,cs,dotnet,js,html,css"/>
+  <br>
+  <br>
+  <img align="center" width=80% src="https://github-readme-streak-stats.herokuapp.com/?user=lspita&theme=transparent" />
 </div>
 
