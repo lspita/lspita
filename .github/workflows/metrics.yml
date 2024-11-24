@@ -85,5 +85,6 @@ jobs:
           base: ''
           # Options
           plugin_skyline: yes
+          plugin_skyline_year: current-year
           plugin_skyline_frames: 120
           plugin_skyline_quality: 1
