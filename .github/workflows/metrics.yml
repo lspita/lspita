@@ -55,7 +55,7 @@ jobs:
           base: ''
           # Options
           plugin_languages: yes
-          plugin_languages_details: 'percentage, lines'
+          plugin_languages_details: 'percentage'
 
       - name: 'Leetcode'
         uses: lowlighter/metrics@latest
