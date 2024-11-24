@@ -21,6 +21,7 @@ jobs:
           filename: ${{ vars.METRICS_DIR }}/base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
+          config_display: large
           # Options
           base: activity, community
 
@@ -30,6 +31,7 @@ jobs:
           filename: ${{ vars.METRICS_DIR }}/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
+          config_display: large
           base: ''
           # Options
           plugin_habits: yes
@@ -42,6 +44,7 @@ jobs:
           filename: ${{ vars.METRICS_DIR }}/isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
+          config_display: large
           base: ''
           # Options
           plugin_isocalendar: yes
@@ -52,20 +55,10 @@ jobs:
           filename: ${{ vars.METRICS_DIR }}/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
+          config_display: large
           base: ''
           # Options
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_sections: 'recently-used'
           plugin_languages_details: 'percentage, lines'
-
-      # - name: 'Leetcode'
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: ${{ vars.METRICS_DIR }}/leetcode.svg
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     config_timezone: Europe/Rome
-      #     base: ''
-      #     # Options
-      #     plugin_leetcode: yes
-      #     plugin_leetcode_sections: 'solved, skills'
