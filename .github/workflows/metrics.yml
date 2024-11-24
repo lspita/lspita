@@ -15,58 +15,27 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 'Base'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: ${{ vars.METRICS_DIR }}/base.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Rome
-          # Options
-          base: header, activity, community
-
-      - name: 'Habits'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: ${{ vars.METRICS_DIR }}/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Rome
-          base: ''
-          # Options
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
-
-      - name: 'ISO Calendar'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: ${{ vars.METRICS_DIR }}/isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Rome
-          base: ''
-          # Options
-          plugin_isocalendar: yes
-
-      - name: 'Languages'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: ${{ vars.METRICS_DIR }}/languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Rome
-          base: ''
-          # Options
-          base_indepth: yes
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_sections: 'most-used, recently-used'
-          plugin_languages_details: 'percentage, lines'
-
-      # - name: 'Leetcode'
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: ${{ vars.METRICS_DIR }}/leetcode.svg
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     config_timezone: Europe/Rome
-      #     base: ''
-      #     # Options
-      #     plugin_leetcode: yes
-      #     plugin_leetcode_sections: 'solved, skills'
+        - uses: lowlighter/metrics@latest
+          with:
+            filename: github-metrics.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            config_timezone: Europe/Rome
+            config_order: base, habits, isocalendar, languages
+            # base
+            base_indepth: yes
+            base: header, activity, community
+            # habits
+            plugin_habits: yes
+            plugin_habits_charts: yes
+            plugin_habits_facts: no
+            # isocalendar
+            plugin_isocalendar: yes
+            plugin_isocalendar_duration: half-year
+            # languages
+            plugin_languages: yes
+            plugin_languages_indepth: yes
+            plugin_languages_sections: most-used, recently-used
+            plugin_languages_details: percentage, lines
+            # # leetcode
+            # plugin_leetcode: yes
+            # plugin_leetcode_sections: solved, skills
