@@ -8,14 +8,12 @@ I'm a full-time student of [Computer Science and Engineering@Cesena Campus of Un
 
 # Activity 📊
 
-<div align="center">
-  <img src="./metrics/isocalendar.svg" alt="metrics isocalendar" width="80%" >
-</div>
+<img src="./metrics/isocalendar.svg" alt="metrics isocalendar" width="100%" >
 
 # Languages & Technologies ⚙️
 
+<img src="./metrics/languages.svg" alt="metrics languages" width="100%" > 
 <div align="center">
-  <img src="./metrics/languages.svg" alt="metrics languages" width="80%" > 
   <br>
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,python,c,java,cs,dotnet,ts,js,html,css" />
 </div>
