@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
           # Options
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
 
       - name: 'Habits'
         uses: lowlighter/metrics@latest
@@ -34,6 +34,7 @@ jobs:
           # Options
           plugin_habits: yes
           plugin_habits_charts: yes
+          plugin_habits_facts: no
 
       - name: 'ISO Calendar'
         uses: lowlighter/metrics@latest
@@ -65,25 +66,4 @@ jobs:
           base: ''
           # Options
           plugin_leetcode: yes
-          plugin_leetcode_sections: 'solved, skills, recent'
-
-      - name: 'Lines'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: ${{ vars.METRICS_DIR }}/lines.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Rome
-          base: ''
-          # Options
-          plugin_lines: yes
-          plugin_lines_sections: 'history'
-
-      - name: 'Skyline'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: ${{ vars.METRICS_DIR }}/skyline.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Rome
-          base: ''
-          # Options
-          plugin_skyline: yes
+          plugin_leetcode_sections: 'solved, skills'
