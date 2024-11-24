@@ -20,7 +20,7 @@ jobs:
             filename: github-metrics.svg
             token: ${{ secrets.METRICS_TOKEN }}
             config_timezone: Europe/Rome
-            config_order: base, habits, isocalendar, languages
+            config_order: base.header, base.activity, base.community, habits, isocalendar, languages
             # base
             base_indepth: yes
             base: header, activity, community
