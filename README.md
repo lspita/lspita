@@ -9,14 +9,14 @@ I'm a full-time student of [Computer Science and Engineering@Cesena Campus of Un
 # Activity 📊
 
 <div align="center">
-  <img src="./metrics/base.svg" alt="metrics base" width="100%" >
-  <img src="./metrics/isocalendar.svg" alt="metrics isocalendar" width="100%" >
+  <img src="./metrics/base.svg" alt="metrics base" >
+  <img src="./metrics/isocalendar.svg" alt="metrics isocalendar" >
 </div>
 
 # Languages & Technologies ⚙️
 
 <div align="center">
+  <img src="./metrics/languages.svg" alt="metrics languages" > 
   <br>
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,python,c,java,cs,dotnet,ts,js,html,css" />
-  <img src="./metrics/languages.svg" alt="metrics languages" width="100%" > 
 </div>
