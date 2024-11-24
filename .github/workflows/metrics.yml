@@ -36,7 +36,7 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_facts: no
 
-      - name: 'ISO Calendar'
+      - name: 'Isometric Calendar'
         uses: lowlighter/metrics@latest
         with:
           filename: ${{ vars.METRICS_DIR }}/isocalendar.svg
@@ -46,30 +46,17 @@ jobs:
           # Options
           plugin_isocalendar: yes
 
-      - name: 'Recent languages'
+      - name: 'Languages'
         uses: lowlighter/metrics@latest
         with:
-          filename: ${{ vars.METRICS_DIR }}/recent-languages.svg
+          filename: ${{ vars.METRICS_DIR }}/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
           base: ''
           # Options
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_sections: 'recently-used, most-used'
-          plugin_languages_details: 'percentage, lines'
-      
-      - name: 'Most Used languages'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: ${{ vars.METRICS_DIR }}/most-used-languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Rome
-          base: ''
-          # Options
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_sections: 'most-used'
+          plugin_languages_sections: 'recently-used'
           plugin_languages_details: 'percentage, lines'
 
       # - name: 'Leetcode'
