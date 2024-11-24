@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
           # Options
-          base: header, activity, community
+          base: activity, community
 
       - name: 'Habits'
         uses: lowlighter/metrics@latest
