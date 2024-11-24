@@ -21,7 +21,6 @@ jobs:
           filename: ${{ vars.METRICS_DIR }}/isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
-          config_display: large
           base: ''
           # Options
           plugin_isocalendar: yes
@@ -32,7 +31,6 @@ jobs:
           filename: ${{ vars.METRICS_DIR }}/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
-          config_display: large
           base: ''
           # Options
           plugin_languages: yes
