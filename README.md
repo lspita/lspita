@@ -3,7 +3,7 @@
 I'm a full-time student of [Computer Science and Engineering@Cesena Campus of University of Bologna](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche).
 
 - 🐧 Linux daily-driver
-- 🛠️ Backend developer
+- 🛠️ Backend/Full-stack
 - 🐳 Currently interested in software engeneering & infrastructure
 
 # Activity 📊
