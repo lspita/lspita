@@ -15,29 +15,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 'Base'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: ${{ vars.METRICS_DIR }}/base.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Rome
-          config_display: large
-          # Options
-          base: activity, community
-
-      - name: 'Habits'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: ${{ vars.METRICS_DIR }}/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Rome
-          config_display: large
-          base: ''
-          # Options
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
-
       - name: 'Isometric Calendar'
         uses: lowlighter/metrics@latest
         with:
