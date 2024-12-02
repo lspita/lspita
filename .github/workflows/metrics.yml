@@ -21,6 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
           base: ''
+          commits_authoring: Ludovico Spitaleri, lspita, ludovico.spitaleri@gmail.com
           # Options
           filename: ${{ vars.METRICS_DIR }}/isocalendar.svg
           plugin_isocalendar: yes
@@ -31,6 +32,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
           base: ''
+          commits_authoring: Ludovico Spitaleri, lspita, ludovico.spitaleri@gmail.com
           # Options
           filename: ${{ vars.METRICS_DIR }}/recent-languages.svg
           plugin_languages: yes
@@ -44,6 +46,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
           base: ''
+          commits_authoring: Ludovico Spitaleri, lspita, ludovico.spitaleri@gmail.com
           # Options
           filename: ${{ vars.METRICS_DIR }}/most-used-languages.svg
           plugin_languages: yes
@@ -57,6 +60,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Rome
           base: ''
+          commits_authoring: Ludovico Spitaleri, lspita, ludovico.spitaleri@gmail.com
           # Options
           filename: ${{ vars.METRICS_DIR }}/leetcode.svg
           plugin_leetcode: yes
