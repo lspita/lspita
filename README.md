@@ -14,9 +14,6 @@ I'm a full-time student of [Computer Science and Engineering@Cesena Campus of Un
 
 # Languages & Technologies ⚙️
 
-
-<img src="./metrics/most-used-languages.svg" alt="metrics languages" width="100%" > 
-
 <img src="./metrics/recent-languages.svg" alt="metrics languages" width="100%" >
 
 <div align="center">
