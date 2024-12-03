@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 249kb of code in 197 edited files across 194 commits over last 13 days</small>
+                <small>estimation from 254kb of code in 205 edited files across 204 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.92460345686038" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="214.92460345686038" y="0" width="154.43488157052423" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="369.3594850273846" y="0" width="83.88398890390498" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="453.24347393128954" y="0" width="4.37620029874102" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.61967423003057" y="0" width="2.3803257699694145" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.0563085689817" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="199.0563085689817" y="0" width="176.99533918542795" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="376.05164775440966" y="0" width="77.69067343006307" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="453.7423211844727" y="0" width="4.053097053640541" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="457.7954182381132" y="0" width="2.204581761886724" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,7 +39,7 @@
                             </div>
                             <small>
                                 <div>675 lines</div>
-                                <div>46.72%</div>
+                                <div>43.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                             </div>
                             <small>
                                 <div>348 lines</div>
-                                <div>18.24%</div>
+                                <div>16.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>8 lines</div>
-                                <div>0.52%</div>
+                                <div>0.48%</div>
                             </small>
                         </div>
                     </section>
@@ -76,8 +76,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>603 lines</div>
-                                <div>33.57%</div>
+                                <div>755 lines</div>
+                                <div>38.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,7 +89,7 @@
                             </div>
                             <small>
                                 <div>16 lines</div>
-                                <div>0.95%</div>
+                                <div>0.88%</div>
                             </small>
                         </div>
                     </section>
