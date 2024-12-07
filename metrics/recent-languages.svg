@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 252kb of code in 324 edited files across 211 commits over last 13 days</small>
+                <small>estimation from 257kb of code in 334 edited files across 216 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.15708866095267" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="178.15708866095267" y="0" width="174.395391316566" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="352.55247997751866" y="0" width="102.9554587607138" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.50793873823244" y="0" width="2.611212589574259" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.1191513278067" y="0" width="1.88084867219334" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.6176878841959" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="167.6176878841959" y="0" width="164.0785246876859" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="331.6962125718818" y="0" width="124.07746711613457" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.7736796880164" y="0" width="2.4567387137286003" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.230418401745" y="0" width="1.769581598255007" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,7 +39,7 @@
                             </div>
                             <small>
                                 <div>698 lines</div>
-                                <div>38.73%</div>
+                                <div>36.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,8 +50,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>510 lines</div>
-                                <div>22.38%</div>
+                                <div>616 lines</div>
+                                <div>26.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>8 lines</div>
-                                <div>0.41%</div>
+                                <div>0.38%</div>
                             </small>
                         </div>
                     </section>
@@ -77,7 +77,7 @@
                             </div>
                             <small>
                                 <div>884 lines</div>
-                                <div>37.91%</div>
+                                <div>35.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,7 +89,7 @@
                             </div>
                             <small>
                                 <div>10 lines</div>
-                                <div>0.57%</div>
+                                <div>0.53%</div>
                             </small>
                         </div>
                     </section>
