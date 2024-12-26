@@ -10,7 +10,7 @@ I'm a full-time student of [Computer Science and Engineering@Cesena Campus of Un
 
 <img src="./metrics/isocalendar.svg" alt="metrics isocalendar" width="100%" >
 
-<img src="./metrics/leetcode.svg" alt="metrics leetcode" width="100%" >
+<!-- <img src="./metrics/leetcode.svg" alt="metrics leetcode" width="100%" > -->
 
 # Languages & Technologies ⚙️
 
