@@ -16,13 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 306kb of code in 464 edited files across 142 commits over last 13 days</small>
+                <small>estimation from 349kb of code in 525 edited files across 157 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.72551404859576" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.72551404859576" y="0" width="0.27448595140428306" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -34,12 +35,24 @@
                                 Java
                             </div>
                             <small>
-                                <div>8.63k lines</div>
-                                <div>100%</div>
+                                <div>9.92k lines</div>
+                                <div>99.94%</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                JavaScript
+                            </div>
+                            <small>
+                                <div>2 lines</div>
+                                <div>0.06%</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
             </section>
