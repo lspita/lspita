@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 376kb of code in 143 edited files across 159 commits over last 13 days</small>
+                <small>estimation from 376kb of code in 145 edited files across 163 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.2386638766858" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="380.2386638766858" y="0" width="50.27903460817932" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="430.5176984848651" y="0" width="29.304659341140894" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.822357826006" y="0" width="0.17764217399401833" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.1522457618997" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="380.1522457618997" y="0" width="50.26760752356934" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="430.419853285469" y="0" width="29.402544913868876" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8223981993379" y="0" width="0.1776018006621048" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>82.66%</div>
+                                <div>82.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,7 +48,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>6.37%</div>
+                                <div>6.39%</div>
                             </small>
                         </div>
                     </section>
