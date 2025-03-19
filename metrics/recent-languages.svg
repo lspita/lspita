@@ -16,15 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 177kb of code in 91 edited files across 119 commits over last 13 days</small>
+                <small>estimation from 185kb of code in 96 edited files across 129 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.96372823086136" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="432.96372823086136" y="0" width="26.6608789262584" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.6246071571198" y="0" width="0.37539284288021113" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="433.5408341244784" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="433.5408341244784" y="0" width="25.425783233612258" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.9666173580907" y="0" width="0.6753803015918575" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.64199765968254" y="0" width="0.35800234031748834" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,18 +37,18 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>94.12%</div>
+                                <div>94.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Makefile
                             </div>
                             <small>
-                                <div>0.08%</div>
+                                <div>0.15%</div>
                             </small>
                         </div>
                     </section>
@@ -60,7 +61,18 @@
                                 Shell
                             </div>
                             <small>
-                                <div>5.8%</div>
+                                <div>5.53%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Dockerfile
+                            </div>
+                            <small>
+                                <div>0.08%</div>
                             </small>
                         </div>
                     </section>
