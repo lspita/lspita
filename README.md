@@ -10,8 +10,11 @@ I'm a full-time student of [Computer Science and Engineering@Cesena Campus of Un
 
 # Languages & Technologies ⚙️
 
-<img src="./metrics/recent-languages.svg" alt="metrics recent languages" width="100%" >
-<!-- <img src="./metrics/most-used-languages.svg" alt="metrics most used languages" width="100%" > -->
+<!-- <img src="./metrics/recent-languages.svg" alt="metrics recent languages" width="100%" > -->
+<img src="./metrics/most-used-languages.svg" alt="metrics most used languages" width="100%" >
+
+<br>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,python,c,java,cs,dotnet,ts,js,html,css" />
