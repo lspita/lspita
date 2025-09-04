@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 53.2kb of code in 183 edited files across 55 commits over last 7 days</small>
+                <small>estimation from 56.5kb of code in 196 edited files across 63 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="395.2190736578698" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="395.2190736578698" y="0" width="34.38355846984406" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.60263212771383" y="0" width="30.3973678722862" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.53182367813565" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="398.53182367813565" y="0" width="32.6252610750797" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="431.1570847532154" y="0" width="28.842915246784653" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 Nix
                             </div>
                             <small>
-                                <div>85.92%</div>
+                                <div>86.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -47,7 +47,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>6.61%</div>
+                                <div>6.27%</div>
                             </small>
                         </div>
                     </section>
@@ -60,7 +60,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>7.47%</div>
+                                <div>7.09%</div>
                             </small>
                         </div>
                     </section>
