@@ -2,6 +2,8 @@
 
 I'm a full-time student of [Computer Science and Engineering@Cesena Campus of University of Bologna](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche).
 
+This is my main profile, you can find my academic stuff in my organization [@lspita-academic](https://github.com/lspita-academic).
+
 # ⚙️ Languages & Technologies
 
 ### 🧰 System & Tooling
@@ -18,7 +20,7 @@ I'm a full-time student of [Computer Science and Engineering@Cesena Campus of Un
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react" height="40em" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,php" height="40em" />
 
 # 🏆 Stats
 
