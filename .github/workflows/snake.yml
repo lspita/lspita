@@ -10,6 +10,8 @@ on:
 
 env:
   OUT_FILE_SVG: dist/contributions-snake.svg
+  GIT_USER_NAME: github-actions[bot]
+  GIT_USER_EMAIL: github-actions[bot]@users.noreply.github.com
 
 jobs:
   generate:
@@ -27,6 +29,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ${{ env.OUT_FILE_SVG }}
+
+      - name: Configure git user
+        run: |
+          git config user.name "${{ env.GIT_USER_NAME }}"
+          git config user.email "${{ env.GIT_USER_EMAIL }}"
       
       - name: Push changes
         run: |
