@@ -1,12 +1,9 @@
-name: Generate Snake Contribution Graph
+name: Generate snake contributions graph
 
 on:
   schedule:
     - cron: "0 0 * * *" # every 24h
   workflow_dispatch: # manual trigger
-  push:
-    branches:
-      - main
 
 env:
   OUT_DIR: dist/contributions-snake
