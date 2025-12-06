@@ -22,10 +22,6 @@ This is my main profile, you can find my academic stuff in my organization [@lsp
 
 ![Web Development icons](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,php)
 
-# 🏆 Stats
-
-[![Ludovico Spitaleri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lspita&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/contributions-snake/dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/contributions-snake/light.svg" />
