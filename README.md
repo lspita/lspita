@@ -1,6 +1,6 @@
 # 👋 Hi
 
-I'm a full-time student of [Computer Science and Engineering@Cesena Campus of University of Bologna](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche).
+I'm a CS student doing an [MSc in Computer Science @ University of Copenhagen (UCPH)](https://www.ku.dk/studies/masters/computer-science)
 
 This is my main profile, you can find my academic stuff in my organization [@lspita-academic](https://github.com/lspita-academic).
 
