@@ -6,9 +6,9 @@ This is my main profile, you can find my academic stuff in my organization [@lsp
 
 # ⚙️ Languages & Technologies
 
-### 🧰 System & Tooling
+### 🧰 Platforms & Tooling
 
-![System & Tooling icons](https://skillicons.dev/icons?i=linux,nix,bash,docker,git,cmake)
+![Platforms & Tooling icons](https://skillicons.dev/icons?i=linux,nix,bash,docker,git,cmake)
 
 ### 💻 Backend and System Languages
 
