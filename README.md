@@ -10,9 +10,9 @@ This is my main profile, you can find my academic stuff in my organization [@lsp
 
 ![Platforms & Tooling icons](https://skillicons.dev/icons?i=linux,nix,bash,docker,git,cmake)
 
-### 💻 Backend and System Languages
+### 💻 General Languages
 
-![General Languages icons](https://skillicons.dev/icons?i=rust,c,java,python,cpp,cs,dotnet,mysql)
+![General Languages icons](https://skillicons.dev/icons?i=rust,c,java,python,cpp,haskell,cs,dotnet,mysql)
 
 ### 🌐 Web Development
 
